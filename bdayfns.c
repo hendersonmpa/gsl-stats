@@ -35,3 +35,5 @@ void print_days(bday_struct days[]){
     printf("%i\t %.3f\t\t %.3f\n", ct, days[ct].one_match, 1-days[ct].none_match);
   }
 }
+
+
